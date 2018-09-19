@@ -1,0 +1,19 @@
+body{
+	margin:0 
+}
+div.content{
+     width:50%;
+     height:100%;
+     float:left;
+     overflow:auto;
+
+ }
+
+#left_section{
+    background-color: #f4ecff;
+}
+
+#right_section{
+    background-color: #7e24fa;
+
+}
