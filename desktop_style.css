@@ -1,19 +1,24 @@
 body{
-	margin:0 
+	margin:0
 }
 div.content{
      width:50%;
      height:100%;
      float:left;
      overflow:auto;
-
+	 text-align: center;
+	 font-family: -apple-system, BlinkMacSystemFont, "San Francisco";
  }
 
 #left_section{
     background-color: #f4ecff;
+	color:#6624d2;
+	font-size: 12px;
 }
 
 #right_section{
     background-color: #7e24fa;
+	color:#f4ecff;
+	font-size: 22px;
 
 }
